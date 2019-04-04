@@ -1,4 +1,4 @@
-# spa-lesson23
+# spa
 
 ## Project setup
 ```
